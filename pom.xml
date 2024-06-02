@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>hello-spring-ai</module>
+        <module>effectively-prompt</module>
     </modules>
 
     <parent>
