@@ -7,6 +7,10 @@
     <groupId>com.shuttle</groupId>
     <artifactId>ai-assisted-coding</artifactId>
     <version>0.0.1</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>hello-spring-ai</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
