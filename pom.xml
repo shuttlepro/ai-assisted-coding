@@ -12,6 +12,7 @@
         <module>hello-spring-ai</module>
         <module>effectively-prompt</module>
         <module>output-converter</module>
+        <module>stuffing-prompt-with-own-data</module>
     </modules>
 
     <parent>
